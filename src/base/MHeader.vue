@@ -1,16 +1,28 @@
 <template>
     <div class="header">
       <slot></slot>
+      <i @click="goBack"></i>
+      <!--//下面要实现点击后退图标，后退到上面的一个操作-->
     </div>
 </template>
 
 <script>
     export default {
         name: "",
+        props:{
+          back:{//通过传值得方式，来控制界面按钮显示是否有没有
+            type:Boolean,
+            default:false
+          }
+        },
         data() {
             return {}
         },
-        methods: {},
+        methods: {
+          goBack(){
+            this.$router.go(-1)
+          }
+        },
         computed: {},
         components: {}
     }

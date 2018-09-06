@@ -1,0 +1,31 @@
+[
+  {
+    "bookCover":"https://img10.360buyimg.com/n1/s200x200_jfs/t2509/116/189783405/241894/25e0ab1f/563c04a1N79a6cd55.jpg",
+    "bookName":"海润阳光·幼儿学前专注力训练100图",
+    "bookInfo":"经典畅销书100图玩出专注力，轻松好成绩 丛书严格按照1-4岁幼儿学习与发展指南编写",
+    "bookPrice":44.80,
+    "bookId":1
+  },
+  {
+    "bookCover":"https://img11.360buyimg.com/n1/s200x200_jfs/t17326/349/2562551684/188787/a64aa1c/5afbde1cNaa625c8d.jpg",
+    "bookName":"月亮与六便士",
+    "bookInfo":"2017豆瓣阅读桂冠图书！靠口碑一年狂卖100万册，全网销量遥遥领先",
+    "bookPrice":35.40,
+    "bookId":2
+  },
+  {
+    "bookCover":"https://img12.360buyimg.com/n1/s200x200_jfs/t18448/342/520461968/308125/8f29a2bc/5a94f880N65ff96a7.jpg",
+    "bookName":"岛上书店",
+    "bookInfo":"好书助力新学期，畅销书每满160减60！叠券更优惠！库存有限",
+    "bookPrice":29.60,
+    "bookId":3
+  },
+  {
+    "bookCover":"https://img13.360buyimg.com/n1/s200x200_jfs/t10072/231/1597945576/58010/1512bd1b/59e35198N2e697952.jpg",
+    "bookName":"摆渡人",
+    "bookInfo":"金融博物馆书院倾情推荐！或许，命运就是一条孤独的河流，我们都会遇见灵魂的摆渡人",
+    "bookPrice":32.00,
+    "bookId":4
+  }
+
+]
