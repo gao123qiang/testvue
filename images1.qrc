@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="新前缀">
+    <file>images/6.jpg</file>
+    <file>images/5.jpg</file>
+    <file>images/4.jpg</file>
+    <file>images/2.jpg</file>
+    <file>images/11.jpg</file>
+    <file>images/denglu1.jpg</file>
+    <file>images/denglu.jpg</file>
+    <file>images/bg.png</file>
+    <file>images/login_bgx.gif</file>
+  </qresource>
+</RCC>
